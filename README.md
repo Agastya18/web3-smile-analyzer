@@ -57,9 +57,6 @@ An innovative Web3 application that uses Openputer AI Oracle (inspired by AgentK
 - Rate limiting on submissions
 - Sybil resistance through wallet verification
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit issues and pull requests.
 
 ## License
 
